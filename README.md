@@ -12,7 +12,7 @@ I'm an Information Science Engineering undergraduate passionate about Artificial
 
 ### 🛠️ Technical Skills
 
-**Languages:** Python, C, C++, JavaScript, SQL
+**Languages:** Python, C, JavaScript, SQL
 
 **AI/ML:** Machine Learning, Generative AI, LLMs, RAG
 
@@ -20,11 +20,23 @@ I'm an Information Science Engineering undergraduate passionate about Artificial
 
 **Web Development:** React.js, Node.js, HTML, CSS
 
-### 🚀 Featured Project
+🚀 Featured Projects
 
-**DevDNA – Developer Data Navigation and Analysis System**
+🧠 DevDNA — VedaFlux
 
-An AI-powered developer onboarding assistant that integrates GitHub, Jira, and Slack to help new developers understand existing projects through natural language queries and source-linked answers.
+AI-Powered Developer Onboarding Assistant
+
+A collaborative project featuring an AI-powered assistant that helps developers explore unfamiliar codebases and retrieve project knowledge from GitHub, Jira Cloud, and Slack using AI and RAG-based techniques.
+
+Technologies: Python, FastAPI, React, NestJS, Sentence Transformers, Groq.
+
+🎬 MovieRecommender
+
+Movie Recommendation System Using Collaborative Filtering
+
+A movie recommendation system built using Python and Apache Spark (PySpark), leveraging the Alternating Least Squares (ALS) algorithm to generate personalized movie recommendations.
+
+Technologies: Python, PySpark, ALS, Streamlit, Pandas, NumPy.
 
 ### 📫 Connect With Me
 
